@@ -1,0 +1,9 @@
+{
+  "labels":[
+    "no_violation",
+    "violation",
+    "other",
+    "mixed"
+  ],
+  "threshold":0.5
+}
